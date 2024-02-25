@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LunarrVoice
+- 🌱 I’m currently learning Python
+- 📫 Contact me via discord @lunarvoice
